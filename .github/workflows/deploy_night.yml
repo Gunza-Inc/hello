@@ -33,4 +33,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            hub.gunza.store/gunza-inc/hello/:latest
+            hub.gunza.store/gunza-inc/hello:latest
